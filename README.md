@@ -113,13 +113,13 @@
 ## • Hafiz - Lead Developer & UI Designer
 
 
-# DI BAWAH INI ADALAH GAMBAR CLICK UP ( SCRUM ) :(br)
+# DI BAWAH INI ADALAH GAMBAR CLICK UP ( SCRUM ) :
 
 
-<img width="1693" height="929" alt="wireframe fiz" src="https://github.com/user-attachments/assets/3803bad9-eaaa-493c-95c8-aa5ede206d9c" /> (br)
+<img width="1693" height="929" alt="wireframe fiz" src="https://github.com/user-attachments/assets/3803bad9-eaaa-493c-95c8-aa5ede206d9c" /> 
 
 
-<img width="1536" height="1024" alt="storyboard hafiz" src="https://github.com/user-attachments/assets/559d4f26-96f4-49c6-9e59-532098eed47e" /> (br)
+<img width="1536" height="1024" alt="storyboard hafiz" src="https://github.com/user-attachments/assets/559d4f26-96f4-49c6-9e59-532098eed47e" /> 
 
 
 
