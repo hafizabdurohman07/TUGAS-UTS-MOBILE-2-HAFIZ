@@ -1,8 +1,3 @@
-# TUGAS-UAS-MOBILE-2-HAFIZ
-
-# 📝 Smart Notes by Hafiz
-
-## IDENTITAS MAHASISWA : 
 
 ## NAMA : Hafiz Abdurohman
 
