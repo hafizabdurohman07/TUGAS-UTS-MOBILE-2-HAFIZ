@@ -123,6 +123,19 @@
 
 
 
+
+<img width="720" height="1640" alt="WhatsApp Image 2026-06-30 at 08 49 39" src="https://github.com/user-attachments/assets/f4340ad5-a601-4aea-853e-fb1e37947b9f" />
+
+
+<img width="720" height="1640" alt="WhatsApp Image 2026-06-30 at 08 49 39 (1)" src="https://github.com/user-attachments/assets/d4b45094-fe1c-4e2a-a4cd-cd9e8bd70899" />
+
+
+<img width="720" height="1640" alt="WhatsApp Image 2026-06-30 at 08 49 40" src="https://github.com/user-attachments/assets/6aa03b1d-d703-4e1b-97bb-062ef6dfc97f" />
+
+
+<img width="720" height="1640" alt="WhatsApp Image 2026-06-30 at 08 49 40 (1)" src="https://github.com/user-attachments/assets/0f490a60-0944-45d5-a71b-0c127d442ce3" />
+
+
 ## BERIKUT ADALAH LINK GANT ( CLICK UP ) SUPAYA DAPAT MELIHAT SCRUM DENGAN JELAS : 
 
 ### Smart Notes by Hafiz - Write luxuriously, remember intelligently.
