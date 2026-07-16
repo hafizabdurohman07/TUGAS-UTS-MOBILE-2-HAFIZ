@@ -111,6 +111,12 @@
 # DI BAWAH INI ADALAH GAMBAR CLICK UP ( SCRUM ) :
 
 
+<img width="955" height="505" alt="image" src="https://github.com/user-attachments/assets/bc7c49c5-f24f-444e-a8b2-18ec84110d14" />
+
+
+
+
+
 <img width="1693" height="929" alt="wireframe fiz" src="https://github.com/user-attachments/assets/3803bad9-eaaa-493c-95c8-aa5ede206d9c" /> 
 
 
