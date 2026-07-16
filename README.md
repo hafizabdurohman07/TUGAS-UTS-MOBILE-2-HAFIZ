@@ -111,6 +111,9 @@
 # DI BAWAH INI ADALAH GAMBAR CLICK UP ( SCRUM ) :
 
 
+https://app.clickup.com/90181768482/v/b/s/90187901128
+
+
 <img width="955" height="505" alt="image" src="https://github.com/user-attachments/assets/bc7c49c5-f24f-444e-a8b2-18ec84110d14" />
 
 
